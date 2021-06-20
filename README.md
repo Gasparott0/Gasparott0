@@ -1,7 +1,9 @@
-# Mateus Gasparotto
+# 👋 Mateus Gasparotto
 
-Meu nome é Mateus Gasparotto, tenho 19 anos de idade. Estou estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP).
+💻 Backend Developer at CPQD
+ 
+📚 Análise e Desenvolvimento de Sistemas / Instituto Federal de São Paulo (IFSP) - Câmpus Hortolândia
 
-Atualmente trabalho como estagiário em desenvolvimento na empresa cpqd.
+📧 mtsgasparotto@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/mateus-gasparotto/)
+😶 [Linkedin](https://www.linkedin.com/in/mateus-gasparotto/)
