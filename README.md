@@ -16,9 +16,9 @@
     <img align="center" alt="Gasparotto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 </div>
 
-##
+## 💻 Github
 
-<div style="display: inline_block;">
+<div>
     <br />
     <a href="https://github.com/Gasparott0">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gasparott0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -26,7 +26,7 @@
     </a>
 </div>
 
-##
+## 🤝🏻 Thanks for visiting my github
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -37,5 +37,3 @@
     <a href="https://www.linkedin.com/in/mateus-gasparotto/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" target="_blank" /></a>
 	   <a href="https://www.instagram.com/ma.gasparotto/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </div>
-
-## 🤝🏻 Thanks for visiting my github
