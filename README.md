@@ -15,6 +15,9 @@
     <img align="center" alt="Gasparotto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="Gasparotto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 </div>
+
+##
+
 <div style="display: inline_block;">
     <br />
     <a href="https://github.com/Gasparott0">
