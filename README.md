@@ -34,3 +34,5 @@
     <a href="https://www.linkedin.com/in/mateus-gasparotto/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" target="_blank" /></a>
 	   <a href="https://www.instagram.com/ma.gasparotto/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </div>
+
+## 🤝🏻 Thanks for visiting my github
