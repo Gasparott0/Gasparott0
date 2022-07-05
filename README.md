@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Mateus Gasparotto 
+# Mateus Gasparotto 
 
 💻 Backend Developer at CPQD
 
